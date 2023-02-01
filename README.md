@@ -9,7 +9,7 @@ fast and flexible way of exploring HTML from the terminal.
 
 ## Install
 
-Direct downloads are available through the [releases page](https://github.com/EricChiang/pup/releases/latest).
+Direct downloads are available through the [releases page](https://github.com/EricChiang/pup/releases/latest)!
 
 If you have Go installed on your computer just run `go get`.
 
