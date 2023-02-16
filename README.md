@@ -337,3 +337,5 @@ output of pup into a more consumable format.
 ## Flags
 
 Run `pup --help` for a list of further options
+
+Is github down?
